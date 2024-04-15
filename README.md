@@ -12,7 +12,7 @@
  [`If there's every error or no function is working consider using this`](https://github.com/henrygokugt99/NEXA-MD-)
 
 ##  🌠```Bot Intro```🌠
-[![STAR-MD-V2](https://i.ibb.co/hVFKKb1/2024041510172390.jpg)](https://wa.me/+256789810043)
+[![NEXA-MD](https://i.ibb.co/hVFKKb1/2024041510172390.jpg)](https://wa.me/+256789810043)
 </p>
       <p align="center">
   <a href="https://wa.me//+256789810043" target="_blank">
