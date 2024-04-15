@@ -1,18 +1,18 @@
  [`ℹ️ ＦＯＬＬＯＷ ＦＯＲ ＵＰＤＡＴＥＳ
 `](https://github.com/Xcelsama)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-      <p align="center">[🇸 🇹 🇦 🇷 -🇲 🇩 ](https://wa.me/+2347045035241)
+      <p align="center">[ᑎEXᗩ-ᗰᗪ ](https://wa.me/+256789810043)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+`](https://wa.me/+256789810043)
 
- [`If there's every error or no function is working consider using this`](https://github.com/EX-BOTS/STAR-MD-V2)
+ [`If there's every error or no function is working consider using this`](https://github.com/henrygokugt99/NEXA-MD-)
 
 ##  🌠```Bot Intro```🌠
-[![STAR-MD-V2](https://i.imgur.com/mQDfG3w.jpeg)](https://wa.me/2347045035241)
+[![STAR-MD-V2](https://i.ibb.co/hVFKKb1/2024041510172390.jpg)](https://wa.me/+256789810043)
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
