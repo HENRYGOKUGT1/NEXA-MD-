@@ -23,33 +23,33 @@
    
  
 <p align="center">
-<a href='https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs' 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08" target="_blank">
+<a href='https://chat.whatsapp.com/Dcuvo2M6Vm25OkunZqEYM5' 
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Dcuvo2M6Vm25OkunZqEYM5" target="_blank">
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
   <a
- href="https://wa.me//+2347045035241"></a>
+ href="https://wa.me//+256789810043"></a>
 </p>
 
   </a>
 
 
-<h1 align="center"> 🌠𝗦𝗧𝗔𝗥-𝗠𝗗-𝗩𝟮🌠
+<h1 align="center"> 🚀NEXA-𝗠𝗗-V1🚀
 </p>
    
-### ℹ️ **ABOUT STAR-MD-V2**
-***STAR-MD-V2 is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [Excel Amadi](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.***
+### ℹ️ **ABOUT NEXA-MD-V1**
+***NEXA-MD-V1 is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [NEXA AI](https://github.com/Xcelsama) It offers a wide array of features, making it an advanced and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.***
 
 </a>
-   <a aria-label="STAR-MD-V2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   <a aria-label="NEXA-MD-V1 is free to use" href="https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
 ## ⭐ `Star This Repo`
-If you find STAR-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation,Support.
+If you find NEXA-MD-V1 helpful, consider giving it a star ⭐ to show your appreciation,Support.
 
 
 
