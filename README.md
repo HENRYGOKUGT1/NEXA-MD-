@@ -181,7 +181,7 @@ NOW Deploy👇
 ## DEPLOY IN KOYEB    
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
 ## `OWNER` 
-<a href="https://github.com/Xcelsama"><img src="https://i.ibb.co/Y3MF1dk/8923-nexa-logo.webp" width="250" height="250" alt="Xcelsama"/></a>
+<a href="https://github.com/henrygokugt99"><img src="https://i.ibb.co/Y3MF1dk/8923-nexa-logo.webp" width="250" height="250" alt="Xcelsama"/></a>
 
    
 
