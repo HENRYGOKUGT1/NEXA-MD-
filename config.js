@@ -61,8 +61,8 @@ global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
-global.fgpyp = 'https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m'
+global.fgyt = 'https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23'
 global.fglog = 'NEXA.jpg' 
 global.thumb = fs.readFileSync('./NEXA.jpg')
 
