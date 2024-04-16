@@ -71,8 +71,8 @@ If you find NEXA-MD-V1 helpful, consider giving it a star ⭐ to show your appre
 
 
 ```❏FORK THE REPOSITORY``` 
-  <a href="https://github.com/Xcelsama/STAR-MD-V2/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <a href="https://github.com/henrygokugt99/NEXA-MD-/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK NEXA-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 ```❏SCAN-QR```        
