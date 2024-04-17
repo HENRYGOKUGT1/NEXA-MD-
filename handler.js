@@ -527,10 +527,10 @@ export async function participantsUpdate({
         promote: '👤👑',
         demote: '👤🙅‍♂️',
         welcome: '👋',
-        bye: '👋',
+        bye: '🚀',
         bug: '🐛',
         mail: '📮',
-        owner: '👑'
+        owner: '🌟'
     };
 
     
@@ -546,8 +546,8 @@ export async function participantsUpdate({
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
-                  ppgp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
+                  pp = 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg'; // Assign default image URL
+                  ppgp = 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg'; // Assign default image URL
                 } finally {
                   let text = (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user')
                     .replace('@group', await this.getName(id))
@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2",
+                        title: "NEXA-V1",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -601,8 +601,8 @@ export async function participantsUpdate({
                   ppgp = await this.profilePictureUrl(id, 'image');
                 } catch (error) {
                   console.error(`Error retrieving profile picture: ${error}`);
-                  pp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
-                  ppgp = 'https://telegra.ph/file/f2fa9732e0e26bbb0bfb0.jpg'; // Assign default image URL
+                  pp = 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg'; // Assign default image URL
+                  ppgp = 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg'; // Assign default image URL
                 } finally {
                   let text = (chat.sBye || this.bye || conn.bye || 'HELLO, @user')
                     .replace('@user', '@' + user.split('@')[0]);
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2 BOT",
+                        title: "NEXA-V1 BOT",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -676,7 +676,7 @@ export async function groupsUpdate(groupsUpdate) {
         if (!id) continue
         let chats = global.db.data.chats[id] || {}
         const emoji = {
-            desc: '📝',
+            desc: '📋',
             subject: '📌',
             icon: '🖼️',
             revoke: '🔗',
@@ -741,7 +741,7 @@ export async function deleteUpdate(message) {
        
             await this.reply(msg.chat, `
             ≡ deleted a message 
-            ┌─⊷  STAR ANTI DELETE
+            ┌─⊷  NEXA ANTI DELETE
             ▢ *Number :* @${participant.split`@`[0]} 
             └─────────────
             TO DEACTIVE , PRESS 
