@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
 
 const { say } =  cfonts;
 
-say("STAR - V2", {
+say("NEXA - V1", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
@@ -23,7 +23,7 @@ say("STAR - V2", {
   'maxLength': '15'
 });
 
-say("STAR-BOT-V2 By Excel._.", {
+say("NEXA-BOT-V1 By NEXA._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
