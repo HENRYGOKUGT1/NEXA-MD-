@@ -1,5 +1,5 @@
 {
-    "name": "starbot",
+    "name": "nexabot",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -31,10 +31,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Xcelsama/STAR-MD-V2.git"
+        "url": "git+https://github.com/henrygokugt99/NEXA-MD-.git"
     },
     "bugs": {
-        "url": "https://github.com/Xcelsama/STAR-MD-V2/issues"
+        "url": "https://github.com/henrygokugt99/NEXA-MD-/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
