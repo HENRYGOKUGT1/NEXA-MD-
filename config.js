@@ -63,8 +63,8 @@ global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/LpacbNXvuhqLAr7
 global.fgsc = 'https://github.com/henrygokugt99/NEXA-MD-' 
 global.fgyt = 'https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23'
 global.fgpyp = 'https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23'
-global.fglog = 'xlicon.jpg' 
-global.thumb = fs.readFileSync('./xlicon.jpg')
+global.fglog = 'STAR.jpg' 
+global.thumb = fs.readFileSync('./STAR.jpg')
 
 
 global.wait = '🧗‍♀️* _NEXA IS LOADING..._*\n*▰▰▰▱▱▱▱▱*'
