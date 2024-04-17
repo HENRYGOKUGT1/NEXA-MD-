@@ -1,4 +1,4 @@
-# STAR-bot Termux-Hosting-Guide
+# NEXA-bot Termux-Hosting-Guide
 
 ##  Prerequisites
 
@@ -12,8 +12,8 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone  https://github.com/Xcelsama/STAR-MD-V2
-> cd STAR-MD-V2
+> git clone  https://github.com/henrygokugt99/NEXA-MD-
+> cd NEXA-MD-
  ```
 
  Run this following command to install the dependencies 
